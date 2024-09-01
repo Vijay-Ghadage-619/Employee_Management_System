@@ -1,0 +1,6 @@
+CREATE TABLE PERFORMANCE (
+    id BIGINT AUTO_INCREMENT PRIMARY KEY,
+    title VARCHAR(255),
+    description TEXT,
+    rating INTEGER
+);

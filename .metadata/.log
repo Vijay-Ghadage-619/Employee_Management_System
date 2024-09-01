@@ -1,0 +1,350 @@
+!SESSION 2024-08-30 00:49:57.742 -----------------------------------------------
+eclipse.buildId=4.24.0.202407191504
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY ch.qos.logback.classic 1 0 2024-08-30 00:49:59.875
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-08-30 00:50:20.158
+!MESSAGE Logback config file: D:\Project final\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.ui 2 0 2024-08-30 00:50:20.667
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-08-30 00:50:20.667
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2024-08-30 00:50:20.945
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-08-30 00:50:20.945
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-08-30 00:50:24.808
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Dell'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2024-08-30 00:50:51.757 -----------------------------------------------
+eclipse.buildId=4.24.0.202407191504
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY ch.qos.logback.classic 1 0 2024-08-30 00:50:54.982
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-08-30 00:50:59.039
+!MESSAGE Logback config file: D:\Project final\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.ui 2 0 2024-08-30 00:50:59.420
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-08-30 00:50:59.420
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2024-08-30 00:50:59.693
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-08-30 00:50:59.693
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-08-30 00:51:02.602
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Dell'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-30 00:52:07.343
+!MESSAGE Classpath changed for project: Eureka_Server_Capstone
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-30 00:52:08.096
+!MESSAGE Classpath changed for project: Api_Gateway_Capstone
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-30 00:52:08.097
+!MESSAGE Classpath changed for project: Department_Capstone
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-30 00:52:08.097
+!MESSAGE Classpath changed for project: Eureka_Server_Capstone
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-30 00:52:08.098
+!MESSAGE Classpath changed for project: Performance_Capstone
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-30 00:52:08.098
+!MESSAGE Classpath changed for project: Task_Capstone
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-30 00:52:17.957
+!MESSAGE Classpath changed for project: Api_Gateway_Capstone
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-30 00:52:17.973
+!MESSAGE Boot project ADDED: Api_Gateway_Capstone
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-30 00:52:17.974
+!MESSAGE Starting Boot LS...
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-30 00:52:17.991
+!MESSAGE Started Boot LS process
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-08-30 00:52:18.013
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+D:\wiproSpringboot\sts-4.24.0.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.3.v20240426-1530\jre\bin\javaw.exe
+-cp
+D:\wiproSpringboot\sts-4.24.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.56.0.202407191456\servers\spring-boot-language-server\BOOT-INF\classes;D:\wiproSpringboot\sts-4.24.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.56.0.202407191456\servers\spring-boot-language-server\BOOT-INF\lib\*
+-Dsts.lsp.client=eclipse
+-Xmx1024m
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:D:\wiproSpringboot\sts-4.24.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.56.0.202407191456\servers\spring-boot-language-server\BOOT-INF\classes\application.properties
+-XX:ErrorFile=D:/Project final/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1724959338012
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-30 00:52:18.014
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-08-30 00:52:18.025
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 17216
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-30 00:52:18.033
+!MESSAGE Classpath changed for project: Api_Gateway_Capstone
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-30 00:52:20.859
+!MESSAGE Classpath changed for project: Department_Capstone
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-30 00:52:20.875
+!MESSAGE Boot project ADDED: Department_Capstone
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-30 00:52:20.941
+!MESSAGE Classpath changed for project: Department_Capstone
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-30 00:52:26.089
+!MESSAGE Classpath changed for project: Eureka_Server_Capstone
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-30 00:52:26.108
+!MESSAGE Boot project ADDED: Eureka_Server_Capstone
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-30 00:52:26.154
+!MESSAGE Classpath changed for project: Eureka_Server_Capstone
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-30 00:52:29.642
+!MESSAGE Classpath changed for project: Performance_Capstone
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-30 00:52:29.643
+!MESSAGE Boot project ADDED: Performance_Capstone
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-30 00:52:30.108
+!MESSAGE Classpath changed for project: Task_Capstone
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-30 00:52:30.109
+!MESSAGE Boot project ADDED: Task_Capstone
+!SESSION 2024-08-30 00:55:35.925 -----------------------------------------------
+eclipse.buildId=4.24.0.202407191504
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY ch.qos.logback.classic 1 0 2024-08-30 00:55:37.697
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-08-30 00:55:41.082
+!MESSAGE Logback config file: D:\Project final\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.ui 2 0 2024-08-30 00:55:41.488
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-08-30 00:55:41.488
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2024-08-30 00:55:41.784
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-08-30 00:55:41.784
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-08-30 00:55:44.762
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+D:\wiproSpringboot\sts-4.24.0.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.3.v20240426-1530\jre\bin\javaw.exe
+-cp
+D:\wiproSpringboot\sts-4.24.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.56.0.202407191456\servers\spring-boot-language-server\BOOT-INF\classes;D:\wiproSpringboot\sts-4.24.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.56.0.202407191456\servers\spring-boot-language-server\BOOT-INF\lib\*
+-Dsts.lsp.client=eclipse
+-Xmx1024m
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:D:\wiproSpringboot\sts-4.24.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.56.0.202407191456\servers\spring-boot-language-server\BOOT-INF\classes\application.properties
+-XX:ErrorFile=D:/Project final/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1724959544760
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-30 00:55:44.763
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-08-30 00:55:44.778
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 19064
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-30 00:55:46.281
+!MESSAGE Boot project ADDED: Api_Gateway_Capstone
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-30 00:55:46.283
+!MESSAGE Starting Boot LS...
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-30 00:55:46.284
+!MESSAGE Started Boot LS process
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-30 00:55:46.292
+!MESSAGE Boot project ADDED: Department_Capstone
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-30 00:55:46.302
+!MESSAGE Boot project ADDED: Eureka_Server_Capstone
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-30 00:55:46.310
+!MESSAGE Boot project ADDED: Performance_Capstone
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-30 00:55:46.318
+!MESSAGE Boot project ADDED: Task_Capstone
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-08-30 00:55:46.349
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Dell'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-30 00:57:57.295
+!MESSAGE Classpath changed for project: Vijay_Employee_MS
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-30 00:57:57.352
+!MESSAGE Classpath changed for project: Vijay_Employee_MS
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-30 00:58:03.477
+!MESSAGE Classpath changed for project: Vijay_Employee_MS
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-30 00:58:03.502
+!MESSAGE Boot project ADDED: Vijay_Employee_MS
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-30 00:58:03.630
+!MESSAGE Classpath changed for project: Vijay_Employee_MS
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-30 00:58:04.461
+!MESSAGE Classpath changed for project: Vijay_Employee_MS
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-30 00:58:04.461
+!MESSAGE Boot project REMOVED: Vijay_Employee_MS
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-30 00:58:05.064
+!MESSAGE Classpath changed for project: Vijay_Employee_MS
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-30 00:58:05.064
+!MESSAGE Boot project ADDED: Vijay_Employee_MS
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-30 01:02:03.047
+!MESSAGE Classpath changed for project: Vijay_Auth
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-30 01:02:03.097
+!MESSAGE Classpath changed for project: Vijay_Auth
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-30 01:02:09.049
+!MESSAGE Classpath changed for project: Vijay_Auth
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-30 01:02:09.070
+!MESSAGE Boot project ADDED: Vijay_Auth
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-30 01:02:09.124
+!MESSAGE Classpath changed for project: Vijay_Auth
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-30 01:02:12.020
+!MESSAGE Classpath changed for project: Vijay_Auth
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-30 01:02:14.470
+!MESSAGE Classpath changed for project: Vijay_Auth
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-30 01:10:28.052
+!MESSAGE Classpath changed for project: Employee_MS
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-30 01:10:28.052
+!MESSAGE Classpath changed for project: Vijay_Employee_MS
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-30 01:10:28.053
+!MESSAGE Boot project REMOVED: Vijay_Employee_MS
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-30 01:10:30.226
+!MESSAGE Classpath changed for project: Employee_MS
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-30 01:10:30.241
+!MESSAGE Boot project ADDED: Employee_MS
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-30 01:10:30.326
+!MESSAGE Classpath changed for project: Employee_MS
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-30 01:35:12.417
+!MESSAGE Classpath changed for project: Authentication
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-30 01:35:12.417
+!MESSAGE Classpath changed for project: Vijay_Auth
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-30 01:35:12.417
+!MESSAGE Boot project REMOVED: Vijay_Auth
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2024-08-30 01:35:12.435
+!MESSAGE Failed to refresh Code Minings for editor.
+!STACK 1
+Java Model Exception: Error in Java Model (code 969): Vijay_Auth does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:562)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getPerProjectInfoCheckExistence(JavaModelManager.java:2603)
+	at org.eclipse.jdt.internal.core.JavaProject.getPerProjectInfo(JavaProject.java:2353)
+	at org.eclipse.jdt.internal.core.JavaProject.getRawClasspath(JavaProject.java:2396)
+	at org.springframework.tooling.ls.eclipse.commons.STS4LanguageClientImpl.lambda$9(STS4LanguageClientImpl.java:439)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ReusableClasspathListenerHandler$CallbackJob.lambda$0(ReusableClasspathListenerHandler.java:76)
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ReusableClasspathListenerHandler$CallbackJob.run(ReusableClasspathListenerHandler.java:76)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2024-08-30 01:35:12.436
+!MESSAGE Vijay_Auth does not exist
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2024-08-30 01:35:12.438
+!MESSAGE Failed to refresh Code Minings for editor.
+!STACK 1
+Java Model Exception: Error in Java Model (code 969): Vijay_Auth does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:562)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getPerProjectInfoCheckExistence(JavaModelManager.java:2603)
+	at org.eclipse.jdt.internal.core.JavaProject.getPerProjectInfo(JavaProject.java:2353)
+	at org.eclipse.jdt.internal.core.JavaProject.getRawClasspath(JavaProject.java:2396)
+	at org.springframework.tooling.ls.eclipse.commons.STS4LanguageClientImpl.lambda$9(STS4LanguageClientImpl.java:439)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ReusableClasspathListenerHandler$CallbackJob.lambda$0(ReusableClasspathListenerHandler.java:76)
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ReusableClasspathListenerHandler$CallbackJob.run(ReusableClasspathListenerHandler.java:76)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2024-08-30 01:35:12.438
+!MESSAGE Vijay_Auth does not exist
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2024-08-30 01:35:12.438
+!MESSAGE Failed to refresh Code Minings for editor.
+!STACK 1
+Java Model Exception: Error in Java Model (code 969): Vijay_Auth does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:562)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getPerProjectInfoCheckExistence(JavaModelManager.java:2603)
+	at org.eclipse.jdt.internal.core.JavaProject.getPerProjectInfo(JavaProject.java:2353)
+	at org.eclipse.jdt.internal.core.JavaProject.getRawClasspath(JavaProject.java:2396)
+	at org.springframework.tooling.ls.eclipse.commons.STS4LanguageClientImpl.lambda$9(STS4LanguageClientImpl.java:439)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ReusableClasspathListenerHandler$CallbackJob.lambda$0(ReusableClasspathListenerHandler.java:76)
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75)
+	at org.springframework.tooling.jdt.ls.commons.classpath.ReusableClasspathListenerHandler$CallbackJob.run(ReusableClasspathListenerHandler.java:76)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2024-08-30 01:35:12.438
+!MESSAGE Vijay_Auth does not exist
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-30 01:35:14.551
+!MESSAGE Classpath changed for project: Authentication
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-30 01:35:14.568
+!MESSAGE Boot project ADDED: Authentication
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-08-30 01:35:14.616
+!MESSAGE Classpath changed for project: Authentication
